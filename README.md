@@ -43,8 +43,9 @@ sequenceDiagram;
 
 ```mermaid
 sequenceDiagram;
-participant broswer;
+participant browser;
 participant server;
 
+browser->>server: https://studies.cs.helsinki.fi/exampleapp/notes;
 
 ```
