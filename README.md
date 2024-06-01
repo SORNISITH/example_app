@@ -5,7 +5,7 @@
 
 
 ```mermaid
-graph TD;
+sequenceDiagram;
     participant browser;
     participant server;
 
